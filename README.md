@@ -6,7 +6,10 @@
 3. A very early appearance of `NULL` in the source code of an early version of the programming language it was created for (ALGOL W).From 1969.
 4. The Ethereum Virtual Machine's `STOP` instruction, which stops execution. Contemporary, but originally dating to 2015.
 5. The Tezos Michelson `never` value, which declares a forbidden branch. Contemporary.but originally dating to 2018.
-
+6. The Ethereum zero/null/burn address.
+7. The Ethereum zero/null/burn address page on Etherscan.
+8. The Ethereum zero/null/burn address page on Etherscan.
+9. The Ethereum zero/null/burn address page on Etherscan.
 
 # Sources
 
@@ -16,3 +19,7 @@
 3. p175 http://bitsavers.org/pdf/stanford/listing/Algol_W_Listing_Nov69.pdf
 4. p30 https://ethereum.github.io/yellowpaper/paper.pdf
 5. https://tezos.gitlab.io/alpha/michelson.html
+6. None.
+7. https://etherscan.io/address/0x0000000000000000000000000000000000000000
+8. https://etherscan.io/address/0x0000000000000000000000000000000000000000
+9. https://etherscan.io/address/0x0000000000000000000000000000000000000000
